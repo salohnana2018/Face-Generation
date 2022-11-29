@@ -3,7 +3,7 @@
 In this project, I used a DCGAN on a celeb faces dataset.
 
 
-### Run
+## Run
 
 1. Clone the repository and navigage to the downloaded folder.
 	```
@@ -13,4 +13,5 @@ In this project, I used a DCGAN on a celeb faces dataset.
 2. Open the `dlnd_face_generation.ipynb` file. Of course, you can find HTML version of the file.
 	```
 		jupyter notebook dlnd_face_generation.ipynb
-
+## Data
+The used dataset can be found (here)[http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html]
