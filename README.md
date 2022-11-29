@@ -14,4 +14,4 @@ In this project, I used a DCGAN on a celeb faces dataset.
 	```
 		jupyter notebook dlnd_face_generation.ipynb
 ## Data
-The used dataset can be found (here)[http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html]
+The used dataset can be found [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
