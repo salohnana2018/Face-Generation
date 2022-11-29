@@ -1,4 +1,4 @@
-# Face-Generation Udacity Deep Learning Nano-degree Project
+## Face-Generation Udacity Deep Learning Nano-degree Project
 
 In this project, I used a DCGAN on a celeb faces dataset.
 
